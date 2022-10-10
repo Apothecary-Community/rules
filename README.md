@@ -14,7 +14,7 @@ There is specific and strict content policy on this server, for the protection o
 - Respect boundaries as placed by others
 - Be respectful/apologize/give space as necessary if someone tells you, or implies through their actions, that you crossed a boundary
 - Be tolerant of other people's views, as long as they are not harmful `[wording?]`
-- [Spoiler](https://demo.hedgedoc.org/#Spoilers) content that may be unpleasant or triggering
+- [Spoiler](https://demo.hedgedoc.org/#Spoilers) '[broken link]' content that may be unpleasant or triggering
 - Disagreements happen, but don't let it turn into an argument. Listen if someone tells you to drop it `[wording?]`
 
 
