@@ -89,11 +89,11 @@ In cases where a room becomes rowdy, but many members are involved, a whole room
 
 Different clients support adding content warnings / spoilers in different ways.  It's good to know how to use them in your client.  As this feature is still in somewhat active development, this may change frequently, and in some cases not be available at all.  Keep in mind that there's no essential way to add a content warning.  Just make sure that people see your warning before they see the content, and only see the content if they choose too.  Even if your client lacks all other features, you can do a content warning by just posting your content elsewhere, and providing a link to the content in the chat.  Thankfully, many clients offer an easier way.  Check for your client below!
 
-### Riot Web & Riot Desktop
+### Element Web & Element Desktop
 
 To send a message with a content warning, use the command `/html <span data-mx-spoiler="CW: Mentions of self harm">Put the hidden content here!</span>`.  This is a temporary measure until the spoiler feature is finalized in this client.
 
-### RiotX
+### Element Android
 
 When using RiotX, content warnings can be sent using the `/spoiler` command.  Keep in mind that this does not allow for sending a reason with your CW, so make sure you provide a message with a reason above or below your CW'd message
 
@@ -101,11 +101,12 @@ When using RiotX, content warnings can be sent using the `/spoiler` command.  Ke
 
 To send a spoiler in Fluffy Chat, use the syntax: `||CW: Self harm mentions|Hidden content here||`.  You can also use Discord-like syntax to send a CW, but make sure you also include why you're using the warning:  `CW: Mentions of self harm ||I'm hidden||`
 
+### Nheko
+To send a message with a content warning, use the raw html: `<span data-mx-spoiler="CW: Mentions of self harm">Put the hidden content here!</span>`.  This is a temporary measure until the spoiler feature is finalized in this client.
+
 ### Unsupported Platforms
 
-- Riot IOS
-- Nheko
-- Riot.im (Android)
+- Element iOS
 
 [#politics:the-apothecary.club]: https://matrix.to/#/!bEDCVipdjtcNSSgFOK:matrix.org?via=the-apothecary.club
 [#vent:the-apothecary.club]: https://matrix.to/#/!bsfcpQHdPYlzJMbuTi:matrix.org?via=the-apothecary.club
