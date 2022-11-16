@@ -84,6 +84,7 @@ These community guidelines apply to all rooms and spaces related to the the-apot
 
 - [ ] add spoiler instructions for more clients in a seperate doc with other matrix usage info
 
+- [ ] add note about !mods command
 
 ### Spoilers
 Spoilers are very useful for posting potentially triggering content safely. Depending on your client, you may or may not be able to add an inline content warning. Instructions for using spoilers depend on your client.
