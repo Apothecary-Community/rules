@@ -14,19 +14,16 @@ There is specific and strict content policy on this server, for the protection o
 - Respect boundaries as placed by others
 - Be respectful/apologize/give space as necessary if someone tells you, or implies through their actions, that you crossed a boundary
 - Be tolerant of other people's views, as long as they are not harmful `[wording?]`
-- [Spoiler](https://demo.hedgedoc.org/#Spoilers) '[broken link]' content that may be unpleasant or triggering
+- Spoiler content that may be unpleasant or triggering
 - Disagreements happen, but don't let it turn into an argument. Listen if someone tells you to drop it `[wording?]`
-
-
+- Keep discussion topical to the room it's in and migrate elsewhere if needed
 
 ## Disallowed conduct
-
-[//]: # (A bit torn on what the best approach is here - either very verbose like below, or something more general and more "casual" like "Discrimination and punching down is not allowed, chuds fuck off")
 
 - Discrimination, included but not limited to:
 - Racism
 - Antisemitism
-- Islamophobia [](test)
+- Islamophobia
 - Sexism
 - Homophobia
 - Transphobia
@@ -46,11 +43,47 @@ There is specific and strict content policy on this server, for the protection o
 - Overly combative or otherwise disruptive behavior
 - Any content or conduct that is illegal in Germany or United States 
 
-[//]: # (things are hosted with hetzner, right? also add countries where admins are located probably)
+## Politics
+
+Political topics and discussions should be kept to the Politics room.
+What counts as a political topic is up to moderator discression.
+
 
 ## Mental Health
 
 Any content which mentions heavy mental health topics, such as suicide and self harm, must be kept to the Vent rooms and spoilered appropriately.
+
+
+## Action
+Moderators may choose how to deal with unacceptable behaviour. Here is a non-exhaustive list of things they may do:
+
+- Inform the offender that their actions were unacceptable and should not be repeated.
+- Temporarily restrict the offender's ability to send messages.
+- Temporarily or permanently ban the offender from the service.
+
+
+## Scope
+These community guidelines apply to all rooms and spaces related to the the-apothecary.club homeserver and related services.
+
+
+# TODO
+- [x] Add the mindform protection rules from Alcove
+
+- [x] we should not allow jumpscares or otherwise shocking content, unless cw'd ( mention client issues), triggering content in general, specifically sh and sui
+
+- [x] clearly emphasizing that disruptive behaviour is not tolerated and will be dealt with strongly
+
+- [x] intolerance or shaming of other people's views ( when they are not harmful ) is not allowed
+
+- [x] forbidden content types
+
+- [ ] discuss permission system 
+
+[//]: # (needs a room upgrade for complete overhaul, space permissions is a blocker)
+- [x] write guide on how to spoiler in common clients 
+
+- [ ] add spoiler instructions for more clients in a seperate doc with other matrix usage info
+
 
 ### Spoilers
 Spoilers are very useful for posting potentially triggering content safely. Depending on your client, you may or may not be able to add an inline content warning. Instructions for using spoilers depend on your client.
@@ -71,39 +104,3 @@ Element does not support inline CW text, but there is a spoiler command.
 #### Element iOS
 Sadly, there is currently no support for spoilering text in Element iOS. Please use fluffychat on ios if spoilers are an i 
 
-
-## Action
-Moderators may choose how to deal with unacceptable behaviour. Here is a non-exhaustive list of things they may do:
-
-- Inform the offender that their actions were unacceptable and should not be repeated.
-- Temporarily restrict the offender's ability to send messages.
-- Temporarily or permanently ban the offender from the service.
-
-
-## Scope
-These community guidelines apply to all rooms and spaces related to the the-apothecary.club homeserver.
-`[or do they? adjust as needed pls]`
-
-
-
-
-# TODO
-- [x] Add the mindform protection rules from Alcove
-
-- [x] we should not allow jumpscares or otherwise shocking content, unless cw'd ( mention client issues), triggering content in general, specifically sh and sui
-
-- [x] clearly emphasizing that disruptive behaviour is not tolerated and will be dealt with strongly
-
-- [x] intolerance or shaming of other people's views ( when they are not harmful ) is not allowed
-
-- [x] forbidden content types
-
-- [ ] discuss permission system 
-
-[//]: # (needs a room upgrade for complete overhaul, space permissions is a blocker)
-- [x] write guide on how to spoiler in common clients 
-
-[//]: # (separate document?)
-- [ ] add spoiler instructions for more clients
-
-[//]: # (what other clients have support ?)
