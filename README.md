@@ -1,8 +1,20 @@
 # Apothecary Community Guidelines V2
 
+<!--
+
+Document notes:
+
+Formatting: please try to keep line to around 100 columns long, and wrap after that. This isn't a
+hard limit, but should be generally respected.
+
+-->
+
 ## Introduction
 
-The Apothecary is a chill and welcoming left-leaning community, a minority friendly space, a place of self-expression. The community is heavily moderated for the safety and comfort of our members, if that's not something you're comfortable with, this isn't the space for you. Be respectful of others, even those you don't understand.
+The Apothecary is a chill and welcoming left-leaning community, a minority friendly space, a place
+of self-expression. The community is heavily moderated for the safety and comfort of our members, if
+that's not something you're comfortable with, this isn't the space for you. Be respectful of others,
+even those you don't understand.
 
 ## Content
 
@@ -51,7 +63,8 @@ What counts as a political topic is up to moderator discression.
 
 ## Mental Health
 
-Any content which mentions heavy mental health topics, such as suicide and self harm, must be kept to the Vent rooms and spoilered appropriately.
+Any content which mentions heavy mental health topics, such as suicide and self harm, must be kept
+to the Vent rooms and spoilered appropriately.
 
 
 ## Action
@@ -63,7 +76,8 @@ Moderators may choose how to deal with unacceptable behaviour. Here is a non-exh
 
 
 ## Scope
-These community guidelines apply to all rooms and spaces related to the the-apothecary.club homeserver and related services.
+These community guidelines apply to all rooms and spaces related to the the-apothecary.club
+homeserver and related services.
 
 
 # TODO
@@ -86,22 +100,4 @@ These community guidelines apply to all rooms and spaces related to the the-apot
 
 - [ ] add note about !mods command
 
-### Spoilers
-Spoilers are very useful for posting potentially triggering content safely. Depending on your client, you may or may not be able to add an inline content warning. Instructions for using spoilers depend on your client.
-
-#### Fluffychat
-In Fluffychat, text can be spoilered by adding two pipes to the start and end of your message.
-
-```
-||Spoilered text||
-```
-
-#### Element
-Element does not support inline CW text, but there is a spoiler command.
-```
-/spoiler Spoilered Text
-```
-
-#### Element iOS
-Sadly, there is currently no support for spoilering text in Element iOS. Please use fluffychat on ios if spoilers are an i 
-
+- [ ] no crypto shit rule?
