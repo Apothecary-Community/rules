@@ -33,18 +33,18 @@ There is specific and strict content policy on this server, for the protection o
 ## Disallowed conduct
 
 - Discrimination, included but not limited to:
-- Racism
-- Antisemitism
-- Islamophobia
-- Sexism
-- Homophobia
-- Transphobia
-- Aphobia
-- Biphboia
-- Panphobia
-- Ableism
-- Sysphobia; tulpas and other mindforms must treated as equal to others. 
-- Classism
+    - Racism
+    - Antisemitism
+    - Islamophobia
+    - Sexism
+    - Homophobia
+    - Transphobia
+    - Aphobia
+    - Biphboia
+    - Panphobia
+    - Ableism
+    - Sysphobia; tulpas and other mindforms must treated as equal to others. 
+    - Classism
 - General exclusionary behavior
 - Stalking, harassment, dogpiling, and any other behavior intended to intimidate or provoke others
 - Conduct promoting Nazism, xenophobia, white supremacy and any related right-wing ideology
