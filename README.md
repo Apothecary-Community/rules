@@ -22,7 +22,7 @@ There is specific and strict content policy on this server, for the protection o
 
 ### Guidelines
 
-- Engage with one another in good faith ( especially in the politics room )
+- Engage with one another in good faith (especially in the politics room)
 - Respect boundaries as placed by others
 - Be respectful/apologize/give space as necessary if someone tells you, or implies through their actions, that you crossed a boundary
 - Be tolerant of other people's views, as long as they are not harmful `[wording?]`
