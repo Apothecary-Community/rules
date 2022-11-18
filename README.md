@@ -101,3 +101,5 @@ homeserver and related services.
 - [ ] add note about !mods command
 
 - [ ] no crypto shit rule?
+
+- [ ] ban appeal process?
