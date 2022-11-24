@@ -25,9 +25,12 @@ There is specific and strict content policy on this server, for the protection o
 - Engage with one another in good faith (especially in the politics room)
 - Respect boundaries as placed by others
 - Be respectful/apologize/give space as necessary if someone tells you, or implies through their actions, that you crossed a boundary
-- Be tolerant of other people's views, as long as they are not harmful `[wording?]`
+- Engage with others in good faith
+    - Try to understand the others' points of view and don't just attack people you disagree with
+    - Disagreements happen, but try not to escalate the situation and increase hostility
+    - If someone wants to disengage from a conversation, let them
+    - If someone is espousing truly harmful views or refuses to engage in good faith, call the moderators to deal with them
 - Spoiler content that may be unpleasant or triggering
-- Disagreements happen, but don't let it turn into an argument. Listen if someone tells you to drop it `[wording?]`
 - Keep discussion topical to the room it's in and migrate elsewhere if needed
 
 ## Disallowed conduct
