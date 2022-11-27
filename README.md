@@ -31,7 +31,7 @@ There is specific and strict content policy on this server, for the protection o
     - If someone is espousing truly harmful views or refuses to engage in good faith, call the moderators to deal with them
 - Respect boundaries as placed by others
 - Be respectful/apologize/give space as necessary if someone tells you, or implies through their
-  actions, that you crossed a boundary
+  actions, that you crossed a boundary, as best as you understand
 - Spoiler content that may be unpleasant or triggering
 - Keep discussion topical to the room it's in and migrate elsewhere if needed
 
