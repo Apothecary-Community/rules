@@ -98,7 +98,3 @@ document will be updated when that system is ready.
 
 These community guidelines apply to all rooms and spaces related to the the-apothecary.club
 homeserver and related services.
-
-
-# TODO
-- [ ] add spoiler instructions for more clients in a separate doc with other matrix usage info
