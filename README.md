@@ -79,7 +79,7 @@ What counts as a political topic is up to moderator discretion.
 ## Mental Health
 
 Any content which mentions heavy mental health topics, such as suicide and self harm, must be kept
-to the Vent rooms and spoilered appropriately.
+to the heav-topics rooms and spoilered appropriately.
 
 
 ## Action
