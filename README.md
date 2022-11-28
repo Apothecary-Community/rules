@@ -63,7 +63,7 @@ room to call the moderators.
 - Aggregating, posting, and/or disseminating a person's demographic, personal, or private data
   without express permission (informally called doxxing)
 - Illegal pornographic material and any analogous illustrated material (for instance, content depicting minors)
-- NSFW content in rooms that are not explicitly marked NSFW
+- Lewd content in rooms that are not explicitly marked Lewd
 - Violent or otherwise shocking content
 - Overly combative or otherwise disruptive behavior
 - Promoting scams or crypto currencies
