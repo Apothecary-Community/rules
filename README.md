@@ -32,7 +32,7 @@ There is specific and strict content policy on this server, for the protection o
 - Respect boundaries as placed by others
 - Be respectful/apologize/give space as necessary if someone tells you, or implies through their
   actions, that you crossed a boundary, as best as you understand
-- Spoiler content that may be unpleasant or triggering
+- Spoiler content that may be unpleasant or triggering < put link >
 - Keep discussion topical to the room it's in and migrate elsewhere if needed
 
 
