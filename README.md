@@ -101,26 +101,4 @@ homeserver and related services.
 
 
 # TODO
-
-- [x] Add the mindform protection rules from Alcove
-
-- [x] we should not allow jumpscares or otherwise shocking content, unless cw'd ( mention client issues), triggering content in general, specifically sh and sui
-
-- [x] clearly emphasizing that disruptive behaviour is not tolerated and will be dealt with strongly
-
-- [x] intolerance or shaming of other people's views ( when they are not harmful ) is not allowed
-
-- [x] forbidden content types
-
-- [ ] discuss permission system 
-
-[//]: # (needs a room upgrade for complete overhaul, space permissions is a blocker)
-- [x] write guide on how to spoiler in common clients 
-
 - [ ] add spoiler instructions for more clients in a separate doc with other matrix usage info
-
-- [x] add note about !mods command
-
-- [x] no crypto shit rule?
-
-- [ ] ban appeal process?
