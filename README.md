@@ -24,7 +24,7 @@ There is specific and strict content policy on this server, for the protection o
 
 ### Guidelines
 
-- Engage with others in good faith (especially in the politics room)
+- Engage with others in good faith (especially in the heated rooms)
     - Try to understand the others' points of view and don't just attack people you disagree with
     - Disagreements happen, but try not to escalate the situation and increase hostility
     - If someone wants to disengage from a conversation, let them
