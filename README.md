@@ -44,7 +44,7 @@ room to call the moderators.
 
 ## Disallowed conduct
 
-- Discrimination, included but not limited to:
+- Discrimination, including but not limited to:
     - Racism
     - Antisemitism
     - Islamophobia
@@ -52,7 +52,7 @@ room to call the moderators.
     - Homophobia
     - Transphobia
     - Aphobia
-    - Biphboia
+    - Biphobia
     - Panphobia
     - Ableism
     - Sysphobia; tulpas and other mindforms must treated as equal to others. 
@@ -79,7 +79,7 @@ What counts as a political topic is up to moderator discretion.
 ## Mental Health
 
 Any content which mentions heavy mental health topics, such as suicide and self harm, must be kept
-to the heav-topics rooms and spoilered appropriately.
+to the heavy-topics rooms and spoilered appropriately.
 
 
 ## Action
