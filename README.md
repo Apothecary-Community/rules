@@ -8,10 +8,10 @@
 
 ## Rules on Content
 
-- While heavy topics are allowed, we ask that you **make judicious use of content warnings for heavy content**, including mental health and self harm.  If you are planning on starting a conversation you expect to go down this path, please use one of our two vents channels: [#vent:the-apothecary.club] and [#vents-private:the-apothecary.club] (ask for an invite).  If a conversation in another chat drifts into a discussion of heavy topics, do your best to use content warnings, and **move to a vent room if the conversation keeps going**.
+- While heavy topics are allowed, we ask that you **make judicious use of content warnings for heavy content**, including mental health, self harm, and any other topics when requested.  If you are planning on starting a conversation you expect to go down this path, please use one of our two vents channels: [#vent:the-apothecary.club], [#trans-vent:the-apothecary.club], and [#vents-private:the-apothecary.club] (ask for an invite).  If a conversation in another chat drifts into a discussion of heavy topics, do your best to use content warnings, and **move to a vent room if the conversation keeps going**.
 - The vent rooms exist in to provide a space for members to vent freely, without worrying about perceptions.  As such, **when someone is using a vent room, do not try to dispute them, argue with them, or call them out**.  For the time being, this is their space.  Responses should be supportive.  If you believe there is an issue with something someone is saying, discuss this with a moderator, and do not confront them directly, unless urgent.
-- Many people here are very nerdy, and that's worderful!  But unfortunately, our conversations can sometimes occupy a room and push other people out.  To help with this, without stiffling wonderful, nerdy discourse, we have [#nerds:the-apothecary.club].  We ask that you **bring your nerdiness in the nerds room**, so that we all can enjoy it, and no one is left feeling pushed out.
-- Our community has many members who are minors or otherwise uninterested in seeing NSFW, lewd, or sexual content.  For their sake, we ask that you **refrain from posting NSFW, lewd, or sexual content**, with the exeption of in [#nsfw:the-apothecary.club].
+- Many people here are very nerdy, and that's worderful!  But unfortunately, our conversations can sometimes occupy a room and push other people out.  To help with this, without stiffling wonderful, nerdy discourse, we have [#nerds:the-apothecary.club].  We ask that you **bring your nerdiness in the nerds room**, so that we all can enjoy it, and none are left feeling pushed out.
+- Our community has many members who are minors or otherwise uninterested in seeing "NSFW", lewd, or sexual content.  For their sake, we ask that you **refrain from posting NSFW, lewd, or sexual content**, with the exeption of the rooms in [#sex-rooms:the-apothecary.club].
 
 ## "Goes without saying" Rules
 
@@ -38,7 +38,7 @@ Refusing to acknowledge a warning may escalate you to the next level of enforcem
 **Examples of behavior that might warrent a warning:**
 
 - Allowing a conversation to devolve into an argument
-- Posting heavy content without a content warning, or posting lewd content outside of [#nsfw:the-apothecary.club]
+- Posting heavy content without a content warning, or posting lewd content outside of [#sex-rooms:the-apothecary.club]
 - A first time offense using a homophobic slur without malicous intent or contemptfully
 
 ### Kicks and Mutes
@@ -77,7 +77,7 @@ In cases where there is clearly no way to improve behavior, or where there could
 
 ### Homesever Bans
 
-Sometimes, moderators will place a ban on all users from a certain homeserver.  This is done where a homeserver is demonstrably and by it's nature in violation of these guidelines, or where the homeserver is a single-user homeserver where the owner is banned and/or has used the homeserver malicously, such as by using it to create bots.
+Sometimes, moderators will place a ban on all users from a certain homeserver.  This is done where a homeserver is demonstrably, and by its nature, in violation of these guidelines, or where the homeserver is a single-user homeserver where the owner is banned and/or has used the homeserver malicously, such as by using it to create bots.
 
 Homeserver bans are enforced by [server ACLS][1] applied in all rooms using [Mjolnir][@mjolnir:alchemi.dev].
 
@@ -110,9 +110,10 @@ To send a message with a content warning, use the raw html: `<span data-mx-spoil
 
 [#politics:the-apothecary.club]: https://matrix.to/#/!bEDCVipdjtcNSSgFOK:matrix.org?via=the-apothecary.club
 [#vent:the-apothecary.club]: https://matrix.to/#/!bsfcpQHdPYlzJMbuTi:matrix.org?via=the-apothecary.club
+[#trans-vent:the-apothecary.club]: https://matrix.to/#/!kByKrhqKPtAOtKmExw:the-apothecary.club?via=the-apothecary.club
 [#vents-private:the-apothecary.club]: https://matrix.to/#/!uatbnTlCncLwOJlApG:the-apothecary.club?via=the-apothecary.club
 [#nerds:the-apothecary.club]: https://matrix.to/#/!PtPiIQBYQfbUtsDtmo:matrix.org?via=the-apothecary.club
-[#nsfw:the-apothecary.club]: https://matrix.to/#/!XLZYNJXxTKCiRDzEEg:the-apothecary.club?via=the-apothecary.club
+[#sex-rooms:the-apothecary.club]: https://matrix.to/#/!wDPwzxYCNPTkHGHCFT:the-apothecary.club?via=the-apothecary.club
 [@mjolnir:alchemi.dev]: https://matrix.to/#/@mjolnir:alchemi.dev
 [ponies.im]: https://ponies.im/_matrix/client/develop
 [1]: https://matrix.org/docs/guides/moderation#banning-servers-from-rooms-server-acls
