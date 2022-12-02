@@ -12,14 +12,14 @@ hard limit, but should be generally respected.
 ## Introduction
 
 The Apothecary is a chill and welcoming left-leaning community, a minority friendly space, a place
-of self-expression. The community is heavily moderated for the safety and comfort of our members, if
+of self-expression and empowerment. The community is heavily moderated for the safety and comfort of our members, if
 that's not something you're comfortable with, this isn't the space for you. Be respectful of others,
 even those you don't understand.
 
 
 ## Content
 
-There is specific and strict content policy on this server, for the protection of our members.
+There are specific and strict content policies on this server for the protection of our members.
 
 
 ### Guidelines
@@ -32,7 +32,7 @@ There is specific and strict content policy on this server, for the protection o
 - Respect boundaries as placed by others
 - Be respectful/apologize/give space as necessary if someone tells you, or implies through their
   actions, that you crossed a boundary, as best as you understand
-- Spoiler content that may be unpleasant or triggering < put link >
+- Spoiler content that may be unpleasant, triggering, or when requested < put link >
 - Keep discussion topical to the room it's in and migrate elsewhere if needed
 
 
@@ -47,24 +47,25 @@ room to call the moderators.
 - Discrimination, including but not limited to:
     - Racism
     - Antisemitism
-    - Islamophobia
+    - Islamomisia
     - Sexism
-    - Homophobia
-    - Transphobia
-    - Aphobia
-    - Biphobia
-    - Panphobia
+    - Homomisia
+    - Transmisia
+    - Acemisia
+    - Aromisia
+    - Bimisia
+    - Panmisia
     - Ableism
-    - Sysphobia; tulpas and other mindforms must treated as equal to others. 
+    - Sysmisia; tulpas and other members of plural groups must treated as equal to others. 
     - Classism
 - General exclusionary behavior
 - Stalking, harassment, dogpiling, and any other behavior intended to intimidate or provoke others
-- Conduct promoting Nazism, xenophobia, white supremacy and any related right-wing ideology
+- Conduct promoting Nazism, fascism, xenophobia, white supremacy and any related right-wing ideology
 - Aggregating, posting, and/or disseminating a person's demographic, personal, or private data
   without express permission (informally called doxxing)
 - Illegal pornographic material and any analogous illustrated material (for instance, content depicting minors)
 - Lewd content in rooms that are not explicitly marked Lewd
-- Violent or otherwise shocking content
+- Gratuitous violence or otherwise shocking content
 - Overly combative or otherwise disruptive behavior
 - Promoting scams or crypto currencies
 - Any content or conduct that is illegal in Germany or United States 
@@ -78,7 +79,7 @@ What counts as a political topic is up to moderator discretion.
 
 ## Mental Health
 
-Any content which mentions heavy mental health topics, such as suicide and self harm, must be kept
+Any content which mentions heavy mental health topics, such as suicide or self harm, must be kept
 to the heavy-topics rooms and spoilered appropriately.
 
 
