@@ -1,7 +1,6 @@
 ---
 title: "Matrix Tips & Tricks"
 date: 2022-12-01T23:44:55-05:00
-draft: true
 ---
 
 ### Spoilers

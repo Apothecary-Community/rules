@@ -1,7 +1,6 @@
 ---
 title: "Apothecary Community Guidelines V2"
 date: 2022-11-19T00:02:37-05:00
-draft: true
 ---
 
 <!--
