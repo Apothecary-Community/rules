@@ -1,0 +1,9 @@
+baseURL = 'http://apothecary.sashanoraa.gay/'
+languageCode = 'en-us'
+title = 'The Apothecary'
+theme = "hello-friend-ng"
+
+[[menu.main]]
+identifier = "rules"
+name       = "Rules"
+url        = "/rules"
