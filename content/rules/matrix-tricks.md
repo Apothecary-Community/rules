@@ -57,6 +57,7 @@ Apothecary rooms have emotes scattered amongst them which fit the theme of each 
 #### Android
 
 Fluffychat is a nice client for android which has good support for emotes!
+
 Schildichat is an element fork with emote support as well, if you prefer that style.
 
 #### UBPorts
@@ -70,15 +71,21 @@ Fluffychat has good emote support and is also on iOS!
 ### Linux
 
 Fluffychat has decent linux support, and has good emote support.
+
 Cinny works well in web browsers, but the flatpak version has a few quirks, and has good emote support.
+
 Nheko also works on linux, and is a QT client with good emote support.
 
 ### Windows
 
 Cinny web works well on windows.
+
 Fluffychat may work ok, but has  not been tested by our QA team.
+
 Nheko may work ok, but has  not been tested by our QA team.
 
 ### MacOS 
+
 Cinny web works well on macos.
+
 Nheko may work ok, but has  not been tested by our QA team.
