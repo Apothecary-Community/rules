@@ -102,3 +102,10 @@ document will be updated when that system is ready.
 
 These community guidelines apply to all rooms and spaces related to the the-apothecary.club
 homeserver and related services.
+
+## Community Rooms
+
+All of the rooms within the community rooms subspace are moderated by members of our community and
+not by apothercary mods directly. It's  not required that those rooms follow our rules exactly, but
+they should still be moderated well to provide a safe atmosphere for our members, or they will be
+removed.
