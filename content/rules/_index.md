@@ -1,5 +1,5 @@
 ---
-title: "Apothecary Community Guidelines V2"
+title: "Apothecary Community Guidelines"
 date: 2022-11-19T00:02:37-05:00
 ---
 
